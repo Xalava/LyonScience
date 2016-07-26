@@ -1,4 +1,4 @@
-Website for a local solidary investment association in Lyon, France
+Website for Startup Weekend Lyon Science 
 
-Le Cigales Croix Rousse est un club d'investissement solidaire local
-N'hésitez pas à nous contacter pour vous joindre au projet
+October 2016 
+INSA Lyon 
