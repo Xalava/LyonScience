@@ -186,7 +186,22 @@
 				{
 					background: #151112;
 				}
-		
+			
+			.button.cta
+			{
+				background: #9CCD2D;
+			}
+
+				.button.cta:hover
+				{
+					background: #ACDD3D;
+				}
+				
+				.button.cta:active
+				{
+					background: #8CBD1D;
+				}
+				
 			.button.fa
 			{
 				xpadding-left: 1em !important;
