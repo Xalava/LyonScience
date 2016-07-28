@@ -968,7 +968,7 @@
 /* Sidekick                                                                       */
 /*********************************************************************************/
 .filt{
-	filter: drop-shadow(1px 1px 2px #666)
+	/*filter: drop-shadow(1px 1px 2px #666)*/
 
 }
 #sidekick
@@ -1178,6 +1178,11 @@
 			background: rgba(255,255,255,0.05);
 			border-radius: 5px;
 			margin: 0;
+		}
+
+		#copyright .coeur 
+		{
+			font-size: 0.6rem;
 		}
 
 .video-container {
