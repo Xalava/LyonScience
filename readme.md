@@ -1,4 +1,15 @@
-Website for Startup Weekend Lyon Science 
+#Website for Startup Weekend Lyon Science 
 
-October 2016 
+## Event
+7-9 October 2016 
 INSA Lyon 
+
+## Credits
+
+### Webdesign
+	HTML5UP
+	Clement Arbib
+### Logo 
+	Sophie Renaud
+### Project management & Code
+	Xavier Lavayssière
