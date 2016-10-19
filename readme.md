@@ -1,6 +1,7 @@
 #Website for Startup Weekend Lyon Science 
 
 ## Event
+2016 Edition:
 7-9 October 2016 
 INSA Lyon 
 
@@ -11,5 +12,7 @@ INSA Lyon
 	Clement Arbib
 ### Logo 
 	Sophie Renaud
-### Project management & Code
+###Photos
+	Mylène Honorat
+### Code
 	Xavier Lavayssière
