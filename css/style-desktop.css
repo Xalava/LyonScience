@@ -286,8 +286,8 @@
 	.dropotron
 	{
 		border-radius: 5px;
-		background-color: #252122;
-		background-color: rgba(34,30,31,0.98);
+		/*background-color: #252122;*/
+		background-color: rgba(34,30,31,0.48);
 		padding: 1.25em 1.5em 1.25em 1.5em;
 		font-style: italic;
 		min-width: 13em;
@@ -424,7 +424,7 @@
 	
 		#intro .middle
 		{
-			box-shadow:	16px 0px 0px 0px #fff,
+/*			box-shadow:	16px 0px 0px 0px #fff,
 						17px 0px 0px 0px #ccc, 
 						
 						-16px 0px 0px 0px #fff, 
@@ -437,7 +437,7 @@
 						16px 45px 0px 0px #fff, 
 
 						-16px 0px 45px 0px rgba(0,0,0,0.15),
-						16px 0px 45px 0px rgba(0,0,0,0.15);
+						16px 0px 45px 0px rgba(0,0,0,0.15);*/
 		}
 		
 		#intro .actions
