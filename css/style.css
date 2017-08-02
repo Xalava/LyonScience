@@ -486,7 +486,7 @@
 		{
 			position: relative;
 			display: inline-block;
-			background-color: #0075B2;
+			background-color: gray;/*#0075B2;*/
 			width: 9em;
 			padding: 1.5em 0 0.5em 0;
 			border-top-left-radius: 5px;
@@ -499,7 +499,7 @@
 				position: absolute;
 				bottom: -1.98em;
 				left: 0;
-				border-top: solid 2em #0075B2;
+				border-top: solid 2em gray;/*#0075B2;*/
 				border-left: solid 4.5em transparent;
 				border-right: solid 4.5em transparent;
 			}
@@ -518,22 +518,22 @@
 
 			.pennant-alt
 			{
-				background-color: #9CCD2D;
+				/*background-color: #9CCD2D;*/
 			}
 			
 				.pennant-alt:after
 				{
-					border-top-color: #9CCD2D;
+					/*border-top-color: #9CCD2D;*/
 				}
 
 			.pennant-alt2
 			{
-				background-color: #F09719;
+				/*background-color: #F09719;*/
 			}
 			
 				.pennant-alt2:after
 				{
-					border-top-color: #F09719;
+					/*border-top-color: #F09719;*/
 				}
 
 /*********************************************************************************/
