@@ -491,6 +491,7 @@
 			padding: 1.5em 0 0.5em 0;
 			border-top-left-radius: 5px;
 			border-top-right-radius: 5px;
+
 		}
 		
 			.pennant:after
@@ -1222,3 +1223,12 @@
 
       z-index: -100;
     }
+.subtitle {
+	font-weight: 400;
+	/*text-shadow: 0.5px 0.5px 1px #AdAdAd;*/
+}
+
+.tags {
+	color:#5d5d5d;
+
+}
